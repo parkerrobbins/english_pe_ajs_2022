@@ -1,3 +1,10 @@
+
+Fork from [a-nap/ajs_pcibex](https://github.com/a-nap/ajs_pcibex) for an acceptability judgment study in progress. Please fork from the original.
+
+Thank you, Anna Prysłopska, for making this available! (Please see the license and copyright notice below.)
+
+----
+
 # Acceptability Judgment Task for PCIbex
 
 This is an experiment template which allows the experimenter to collect 
