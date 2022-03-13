@@ -1,7 +1,7 @@
 .sentence {
-  background-color: black;
+  background-color: white;
   clear: both;
-  color: OldLace;
+  color: black;
   font-family: monospace;
 }
 .question {
@@ -15,18 +15,18 @@
 }
 .ospan {
   border-bottom: 1px solid #9ea4b1;
-  background-color: black;
+  background-color: white;
 }
 .ispan {
   visibility: hidden;
 }
 .practice-text {
- color: OldLace; 
+ color: black; 
  font-weight: bold;
 }
 .iphone-next {
  clear: both;
- background: white;
+ background: black;
  color: gray;
  foreground: gray;
  text-align: center;

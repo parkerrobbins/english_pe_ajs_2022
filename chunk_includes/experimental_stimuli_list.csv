@@ -1,0 +1,193 @@
+GROUP,CONDITION,ITEM,ITEM_TYPE,SENTENCE_TYPE,STRUCTURE,VALUE
+1,A,1,factorial,Matrix question,Extraction,Which contestant did they think's performance was the best?
+1,A,9,factorial,Matrix question,Extraction,Which executive did you hear's personal assistant quit after only one day?
+1,A,17,factorial,Matrix question,Extraction,Which suspect did you think's alibi was the most questionable?
+1,B,2,factorial,Matrix question,Resumption,Which politician did you read her chief of staff tested positive for COVID?
+1,B,10,factorial,Matrix question,Resumption,Which celebrity chef did you think his restaurant served an amazing truffle risotto?
+1,B,18,factorial,Matrix question,Resumption,Which prime minister did you say his latest decision was applauded by human rights groups?
+1,C,3,factorial,Embedded question,Extraction,I forget which hockey player you heard's team got a gold medal at the Olympics.
+1,C,11,factorial,Embedded question,Extraction,I forget which librarian you thought's boss refused to pull racist books off shelves.
+1,C,19,factorial,Embedded question,Extraction,I forgot which judge you thought's ruling should have been more widely criticized.
+1,D,4,factorial,Embedded question,Resumption,I forget which driver you thought his brakes sounded too squeaky.
+1,D,12,factorial,Embedded question,Resumption,I forget which painter you read their sketchbooks are on display in the museum of art.
+1,D,20,factorial,Embedded question,Resumption,I forget which doctor you heard his treatment helps with back pain.
+1,E,5,factorial,Relative clause with who,Extraction,That was the student who they suspected's homework was plagiarized.
+1,E,13,factorial,Relative clause with who,Extraction,That was the neighbour who I said's house has been targeted by package thieves.
+1,E,21,factorial,Relative clause with who,Extraction,That was the teacher who you thought's students were least prepared for the test.
+1,F,6,factorial,Relative clause with who,Resumption,That was the author who I heard their latest book just hit the bestseller list.
+1,F,14,factorial,Relative clause with who,Resumption,That was the singer who I read his YouTube channel reached over a million subscribers.
+1,F,22,factorial,Relative clause with who,Resumption,That was the comedian who you thought her Netflix special was the funniest.
+1,G,7,factorial,Relative clause with that,Extraction,That was the mother that I think's kid peed in the pool.
+1,G,15,factorial,Relative clause with that,Extraction,That was the plumber that I heard's team will come out for emergencies at any time of day.
+1,G,23,factorial,Relative clause with that,Extraction,That was the applicant that they found out's car broke down on his way to a job interview.
+1,H,8,factorial,Relative clause with that,Resumption,That was the student that we found out their cat got smuggled into to school in a backpack.
+1,H,16,factorial,Relative clause with that,Resumption,That was the late-night host that I thought his show would never promote conspiracy theories.
+1,H,24,factorial,Relative clause with that,Resumption,That was the celebrity that they say her private photos were leaked on the Internet.
+2,A,2,factorial,Matrix question,Extraction,Which politician did you read's chief of staff tested positive for COVID?
+2,A,10,factorial,Matrix question,Extraction,Which celebrity chef did you think's restaurant served an amazing truffle risotto?
+2,A,18,factorial,Matrix question,Extraction,Which prime minister did you say's latest decision was applauded by human rights groups?
+2,B,3,factorial,Matrix question,Resumption,Which hockey player did you hear her team got a gold medal at the Olympics?
+2,B,11,factorial,Matrix question,Resumption,Which librarian did you think her boss refused to pull racist books off shelves?
+2,B,19,factorial,Matrix question,Resumption,Which judge did you think her ruling should have been more widely criticized?
+2,C,4,factorial,Embedded question,Extraction,I forget which driver you thought's brakes sounded too squeaky.
+2,C,12,factorial,Embedded question,Extraction,I forget which painter you read's sketchbooks are on display in the museum of art.
+2,C,20,factorial,Embedded question,Extraction,I forget which doctor you heard's treatment helps with back pain.
+2,D,5,factorial,Embedded question,Resumption,I forget which student they suspected his homework was plagiarized.
+2,D,13,factorial,Embedded question,Resumption,I forget which neighbour you said her house has been targeted by package thieves.
+2,D,21,factorial,Embedded question,Resumption,I forget which teacher you thought their students were least prepared for the test.
+2,E,6,factorial,Relative clause with who,Extraction,That was the author who I heard's latest book just hit the bestseller list.
+2,E,14,factorial,Relative clause with who,Extraction,That was the singer who I read's YouTube channel reached over a million subscribers.
+2,E,22,factorial,Relative clause with who,Extraction,That was the comedian who you thought's Netflix special was the funniest.
+2,F,7,factorial,Relative clause with who,Resumption,That was the mother who I think her kid peed in the pool.
+2,F,15,factorial,Relative clause with who,Resumption,That was the plumber who I heard her team will come out for emergencies at any time of day.
+2,F,23,factorial,Relative clause with who,Resumption,That was the applicant who they found out his car broke down on his way to a job interview.
+2,G,8,factorial,Relative clause with that,Extraction,That was the student that we found out's cat got smuggled into to school in a backpack.
+2,G,16,factorial,Relative clause with that,Extraction,That was the late-night host that I thought's show would never promote conspiracy theories.
+2,G,24,factorial,Relative clause with that,Extraction,That was the celebrity that they say's private photos were leaked on the Internet.
+2,H,1,factorial,Relative clause with that,Resumption,That was the contestant that I think his performance was the best.
+2,H,9,factorial,Relative clause with that,Resumption,That was the executive that we heard their personal assistant quit after only one day.
+2,H,17,factorial,Relative clause with that,Resumption,That was the suspect that I thought their alibi was the most questionable.
+3,A,3,factorial,Matrix question,Extraction,Which hockey player did you hear's team got a gold medal at the Olympics?
+3,A,11,factorial,Matrix question,Extraction,Which librarian did you think's boss refused to pull racist books off shelves?
+3,A,19,factorial,Matrix question,Extraction,Which judge did you think's ruling should have been more widely criticized?
+3,B,4,factorial,Matrix question,Resumption,Which driver did you think his brakes sounded too squeaky?
+3,B,12,factorial,Matrix question,Resumption,Which painter did you read their sketchbooks are on display in the museum of art?
+3,B,20,factorial,Matrix question,Resumption,Which doctor did you hear his treatment helps with back pain?
+3,C,5,factorial,Embedded question,Extraction,I forget which student they suspected's homework was plagiarized.
+3,C,13,factorial,Embedded question,Extraction,I forget which neighbour you said's house has been targeted by package thieves.
+3,C,21,factorial,Embedded question,Extraction,I forget which teacher you thought's students were least prepared for the test.
+3,D,6,factorial,Embedded question,Resumption,I forget which author you heard their latest book just hit the bestseller list.
+3,D,14,factorial,Embedded question,Resumption,I forget which singer you read his YouTube channel reached over a million subscribers.
+3,D,22,factorial,Embedded question,Resumption,I forget which comedian you thought her Netflix special was the funniest.
+3,E,7,factorial,Relative clause with who,Extraction,That was the mother who I think's kid peed in the pool.
+3,E,15,factorial,Relative clause with who,Extraction,That was the plumber who I heard's team will come out for emergencies at any time of day.
+3,E,23,factorial,Relative clause with who,Extraction,That was the applicant who they found out's car broke down on his way to a job interview.
+3,F,8,factorial,Relative clause with who,Resumption,That was the student who we found out their cat got smuggled into to school in a backpack.
+3,F,16,factorial,Relative clause with who,Resumption,That was the late-night host who I thought his show would never promote conspiracy theories.
+3,F,24,factorial,Relative clause with who,Resumption,That was the celebrity who they say her private photos were leaked on the Internet.
+3,G,1,factorial,Relative clause with that,Extraction,That was the contestant that I think's performance was the best.
+3,G,9,factorial,Relative clause with that,Extraction,That was the executive that we heard's personal assistant quit after only one day.
+3,G,17,factorial,Relative clause with that,Extraction,That was the suspect that I thought's alibi was the most questionable.
+3,H,2,factorial,Relative clause with that,Resumption,That was the politician that I read her chief of staff tested positive for COVID.
+3,H,10,factorial,Relative clause with that,Resumption,That was the celebrity chef that we thought his restaurant served an amazing truffle risotto.
+3,H,18,factorial,Relative clause with that,Resumption,That was the prime minister that you said his latest decision was applauded by human rights groups.
+4,A,4,factorial,Matrix question,Extraction,Which driver did you think's brakes sounded too squeaky?
+4,A,12,factorial,Matrix question,Extraction,Which painter did you read's sketchbooks are on display in the museum of art?
+4,A,20,factorial,Matrix question,Extraction,Which doctor did you hear's treatment helps with back pain?
+4,B,5,factorial,Matrix question,Resumption,Which student did they suspect his homework was plagiarized?
+4,B,13,factorial,Matrix question,Resumption,Which neighbour did you say her house has been targeted by package thieves?
+4,B,21,factorial,Matrix question,Resumption,Which teacher did you think their students were the least prepared for the test?
+4,C,6,factorial,Embedded question,Extraction,I forget which author you heard's latest book just hit the bestseller list.
+4,C,14,factorial,Embedded question,Extraction,I forget which singer you read's YouTube channel reached over a million subscribers.
+4,C,22,factorial,Embedded question,Extraction,I forget which comedian you thought's Netflix special was the funniest.
+4,D,7,factorial,Embedded question,Resumption,I forget which mother they think her kid peed in the pool.
+4,D,15,factorial,Embedded question,Resumption,I forget which plumber you heard her team will come out for emergencies at any time of day.
+4,D,23,factorial,Embedded question,Resumption,I forget which applicant they found out his car broke down on his way to a job interview.
+4,E,8,factorial,Relative clause with who,Extraction,That was the student who we found out's cat got smuggled into to school in a backpack.
+4,E,16,factorial,Relative clause with who,Extraction,That was the late-night host who I thought's show would never promote conspiracy theories.
+4,E,24,factorial,Relative clause with who,Extraction,That was the celebrity who they say's private photos were leaked on the Internet.
+4,F,1,factorial,Relative clause with who,Resumption,That was the contestant who I think his performance was the best.
+4,F,9,factorial,Relative clause with who,Resumption,That was the executive who we heard their personal assistant quit after only one day.
+4,F,17,factorial,Relative clause with who,Resumption,That was the suspect who I thought their alibi was the most questionable.
+4,G,2,factorial,Relative clause with that,Extraction,That was the politician that I read's chief of staff tested positive for COVID.
+4,G,10,factorial,Relative clause with that,Extraction,That was the celebrity chef that we thought's restaurant served an amazing truffle risotto.
+4,G,18,factorial,Relative clause with that,Extraction,That was the prime minister that you said's latest decision was applauded by human rights groups.
+4,H,3,factorial,Relative clause with that,Resumption,That was the hockey player that you heard her team got a gold medal at the Olympics.
+4,H,11,factorial,Relative clause with that,Resumption,That was the librarian that we thought her boss refused to pull racist books off shelves.
+4,H,19,factorial,Relative clause with that,Resumption,That was the judge that I thought her ruling should have been more widely criticized.
+5,A,5,factorial,Matrix question,Extraction,Which student did they suspect's homework was plagiarized?
+5,A,13,factorial,Matrix question,Extraction,Which neighbour did you say's house has been targeted by package thieves?
+5,A,21,factorial,Matrix question,Extraction,Which teacher did you think's students were the least prepared for the test?
+5,B,6,factorial,Matrix question,Resumption,Which author did you hear their latest book just hit the bestseller list?
+5,B,14,factorial,Matrix question,Resumption,Which singer did you read his YouTube channel reached over a million subscribers?
+5,B,22,factorial,Matrix question,Resumption,Which comedian did you think her Netflix special was the funniest?
+5,C,7,factorial,Embedded question,Extraction,I forget which mother they think's kid peed in the pool.
+5,C,15,factorial,Embedded question,Extraction,I forget which plumber you heard's team will come out for emergencies at any time of day.
+5,C,23,factorial,Embedded question,Extraction,I forget which applicant they found out's car broke down on his way to a job interview.
+5,D,8,factorial,Embedded question,Resumption,I forget which student you found out their cat got smuggled into to school in a backpack.
+5,D,16,factorial,Embedded question,Resumption,I forget which late-night host you thought his show would never promote conspiracy theories.
+5,D,24,factorial,Embedded question,Resumption,I forget which celebrity they say her private photos were leaked on the Internet.
+5,E,1,factorial,Relative clause with who,Extraction,That was the contestant who I think's performance was the best.
+5,E,9,factorial,Relative clause with who,Extraction,That was the executive who we heard's personal assistant quit after only one day.
+5,E,17,factorial,Relative clause with who,Extraction,That was the suspect who I thought's alibi was the most questionable.
+5,F,2,factorial,Relative clause with who,Resumption,That was the politician who I read her chief of staff tested positive for COVID.
+5,F,10,factorial,Relative clause with who,Resumption,That was the celebrity chef who we thought his restaurant served an amazing truffle risotto.
+5,F,18,factorial,Relative clause with who,Resumption,That was the prime minister who you said his latest decision was applauded by human rights groups.
+5,G,3,factorial,Relative clause with that,Extraction,That was the hockey player that you heard's team got a gold medal at the Olympics.
+5,G,11,factorial,Relative clause with that,Extraction,That was the librarian that we thought's boss refused to pull racist books off shelves.
+5,G,19,factorial,Relative clause with that,Extraction,That was the judge that I thought's ruling should have been more widely criticized.
+5,H,4,factorial,Relative clause with that,Resumption,That was the driver that we thought his brakes sounded too squeaky.
+5,H,12,factorial,Relative clause with that,Resumption,That was the painter that I read their sketchbooks are on display in the museum of art.
+5,H,20,factorial,Relative clause with that,Resumption,That was the doctor that I heard his treatment helps with back pain.
+6,A,6,factorial,Matrix question,Extraction,Which author did you hear's latest book just hit the bestseller list?
+6,A,14,factorial,Matrix question,Extraction,Which singer did you read's YouTube channel reached over a million subscribers?
+6,A,22,factorial,Matrix question,Extraction,Which comedian did you think's Netflix special was the funniest?
+6,B,7,factorial,Matrix question,Resumption,Which mother did they think her kid peed in the pool?
+6,B,15,factorial,Matrix question,Resumption,Which plumber did you hear her team will come out for emergencies at any time of day?
+6,B,23,factorial,Matrix question,Resumption,Which applicant did they find out his car broke down on his way to a job interview?
+6,C,8,factorial,Embedded question,Extraction,I forget which student you found out's cat got smuggled into to school in a backpack.
+6,C,16,factorial,Embedded question,Extraction,I forget which late-night host you thought's show would never promote conspiracy theories.
+6,C,24,factorial,Embedded question,Extraction,I forget which celebrity they say's private photos were leaked on the Internet.
+6,D,1,factorial,Embedded question,Resumption,I forget which contestant you said his performance was the best.
+6,D,9,factorial,Embedded question,Resumption,I forget which executive you heard their personal assistant quit after only one day.
+6,D,17,factorial,Embedded question,Resumption,I forget which suspect you thought their alibi was the most questionable.
+6,E,2,factorial,Relative clause with who,Extraction,That was the politician who I read's chief of staff tested positive for COVID.
+6,E,10,factorial,Relative clause with who,Extraction,That was the celebrity chef who we thought's restaurant served an amazing truffle risotto.
+6,E,18,factorial,Relative clause with who,Extraction,That was the prime minister who you said's latest decision was applauded by human rights groups.
+6,F,3,factorial,Relative clause with who,Resumption,That was the hockey player who you heard her team got a gold medal at the Olympics.
+6,F,11,factorial,Relative clause with who,Resumption,That was the librarian who we thought her boss refused to pull racist books off shelves.
+6,F,19,factorial,Relative clause with who,Resumption,That was the judge who I thought her ruling should have been more widely criticized.
+6,G,4,factorial,Relative clause with that,Extraction,That was the driver that we thought's brakes sounded too squeaky.
+6,G,12,factorial,Relative clause with that,Extraction,That was the painter that I read's sketchbooks are on display in the museum of art.
+6,G,20,factorial,Relative clause with that,Extraction,That was the doctor that I heard's treatment helps with back pain.
+6,H,5,factorial,Relative clause with that,Resumption,That was the student that they suspected his homework was plagiarized.
+6,H,13,factorial,Relative clause with that,Resumption,That was the neighbour that I said her house has been targeted by package thieves.
+6,H,21,factorial,Relative clause with that,Resumption,That was the teacher that you thought their students were least prepared for the test.
+7,A,7,factorial,Matrix question,Extraction,Which mother did they think's kid peed in the pool?
+7,A,15,factorial,Matrix question,Extraction,Which plumber did you hear's team will come out for emergencies at any time of day?
+7,A,23,factorial,Matrix question,Extraction,Which applicant did they find out's car broke down on his way to a job interview?
+7,B,8,factorial,Matrix question,Resumption,Which student did you find out their cat got smuggled into to school in a backpack?
+7,B,16,factorial,Matrix question,Resumption,Which late-night host did you think his show would never promote conspiracy theories?
+7,B,24,factorial,Matrix question,Resumption,Which celebrity did they say her private photos were leaked on the Internet?
+7,C,1,factorial,Embedded question,Extraction,I forget which contestant you said's performance was the best.
+7,C,9,factorial,Embedded question,Extraction,I forget which executive you heard's personal assistant quit after only one day.
+7,C,17,factorial,Embedded question,Extraction,I forget which suspect you thought's alibi was the most questionable.
+7,D,2,factorial,Embedded question,Resumption,I forget which politician you read her chief of staff tested positive for COVID.
+7,D,10,factorial,Embedded question,Resumption,I forget which celebrity chef you thought his restaurant served an amazing truffle risotto.
+7,D,18,factorial,Embedded question,Resumption,I forget which prime minister you said his latest decision was applauded by human rights groups.
+7,E,3,factorial,Relative clause with who,Extraction,That was the hockey player who you heard's team got a gold medal at the Olympics.
+7,E,11,factorial,Relative clause with who,Extraction,That was the librarian who we thought's boss refused to pull racist books off shelves.
+7,E,19,factorial,Relative clause with who,Extraction,That was the judge who I thought's ruling should have been more widely criticized.
+7,F,4,factorial,Relative clause with who,Resumption,That was the driver who we thought his brakes sounded too squeaky.
+7,F,12,factorial,Relative clause with who,Resumption,That was the painter who I read their sketchbooks are on display in the museum of art.
+7,F,20,factorial,Relative clause with who,Resumption,That was the doctor who I heard his treatment helps with back pain.
+7,G,5,factorial,Relative clause with that,Extraction,That was the student that they suspected's homework was plagiarized.
+7,G,13,factorial,Relative clause with that,Extraction,That was the neighbour that I said's house has been targeted by package thieves.
+7,G,21,factorial,Relative clause with that,Extraction,That was the teacher that you thought's students were least prepared for the test.
+7,H,6,factorial,Relative clause with that,Resumption,That was the author that I heard their latest book just hit the bestseller list.
+7,H,14,factorial,Relative clause with that,Resumption,That was the singer that I read his YouTube channel reached over a million subscribers.
+7,H,22,factorial,Relative clause with that,Resumption,That was the comedian that you thought her Netflix special was the funniest.
+8,A,8,factorial,Matrix question,Extraction,Which student did you find out's cat got smuggled into to school in a backpack?
+8,A,16,factorial,Matrix question,Extraction,Which late-night host did you think's show would never promote conspiracy theories?
+8,A,24,factorial,Matrix question,Extraction,Which celebrity did they say's private photos were leaked on the Internet?
+8,B,1,factorial,Matrix question,Resumption,Which contestant did they think his performance was the best?
+8,B,9,factorial,Matrix question,Resumption,Which executive did you hear their personal assistant quit after only one day?
+8,B,17,factorial,Matrix question,Resumption,Which suspect did you think their alibi was the most questionable?
+8,C,2,factorial,Embedded question,Extraction,I forget which politician you read's chief of staff tested positive for COVID.
+8,C,10,factorial,Embedded question,Extraction,I forget which celebrity chef you thought's restaurant served an amazing truffle risotto.
+8,C,18,factorial,Embedded question,Extraction,I forget which prime minister you said's latest decision was applauded by human rights groups.
+8,D,3,factorial,Embedded question,Resumption,I forget which hockey player you heard her team got a gold medal at the Olympics.
+8,D,11,factorial,Embedded question,Resumption,I forget which librarian you thought her boss refused to pull racist books off shelves.
+8,D,19,factorial,Embedded question,Resumption,I forgot which judge you thought her ruling should have been more widely criticized.
+8,E,4,factorial,Relative clause with who,Extraction,That was the driver who we thought's brakes sounded too squeaky.
+8,E,12,factorial,Relative clause with who,Extraction,That was the painter who I read's sketchbooks are on display in the museum of art.
+8,E,20,factorial,Relative clause with who,Extraction,That was the doctor who I heard's treatment helps with back pain.
+8,F,5,factorial,Relative clause with who,Resumption,That was the student who they suspected his homework was plagiarized.
+8,F,13,factorial,Relative clause with who,Resumption,That was the neighbour who I said her house has been targeted by package thieves.
+8,F,21,factorial,Relative clause with who,Resumption,That was the teacher who you thought their students were least prepared for the test.
+8,G,6,factorial,Relative clause with that,Extraction,That was the author that I heard's latest book just hit the bestseller list.
+8,G,14,factorial,Relative clause with that,Extraction,That was the singer that I read's YouTube channel reached over a million subscribers.
+8,G,22,factorial,Relative clause with that,Extraction,That was the comedian that you thought's Netflix special was the funniest.
+8,H,7,factorial,Relative clause with that,Resumption,That was the mother that I think her kid peed in the pool.
+8,H,15,factorial,Relative clause with that,Resumption,That was the plumber that I heard her team will come out for emergencies at any time of day.
+8,H,23,factorial,Relative clause with that,Resumption,That was the applicant that they found out his car broke down on his way to a job interview.

@@ -1,11 +1,13 @@
 body {
-    color:  OldLace;
-    background-color: black;
-    margin-left: 0;
-    margin-top: 5em;
+   background: "white";
+   font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+   font-size: 14pt;
+   margin-left: 0;
+   margin-top: 3em;
 }
+
 a {
-	color: Crimson;
+	color: black;
 }
 
 .lindent { margin-left: 5em; }
@@ -17,8 +19,8 @@ a {
 
 .newTextInput {
     margin-top: 1em;
-    margin-bottom:1em;
-    width:900px;
+    margin-bottom:1em; 
+    width:600px;
 }
 
 newButton {
@@ -29,26 +31,35 @@ newButton {
 
 div.bar-container {
     border: 1px solid;
-    border-color: #9ea4b1;
-    background-color: black;
+    border-color: white;
+    background-color: white;
 }
 div.bar {
-    background-color:  LightCoral;
+    background-color:  white;
 }
 div.fancy {
-    color: LightCoral;
+    color: black;
+    font-size: medium;
 }
 
 p {
-    margin-top: 1em;
-    margin-bottom: 1em;    
+   background: "white";
+   font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+   font-size: 16pt;
+   line-height: 1.3em;
+   word-spacing: -0.05em;
+   color:  black;
+   margin-left: 0;
+   margin-top: 1em;
+   margin-bottom: 1em;
 }
 
 p.progress-text {
+    font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
     padding-top: 0.5em;
     margin-top: 0;
-    margin-bottom: 2em;
-    font-size: small;
+    margin-bottom: 1.5em;
+    font-size: 14px;
     text-align: center;
 }
 p.practice-box {
@@ -59,7 +70,7 @@ p.practice-box {
     text-align: center;
 }
 span.retry {
-    color:  OldLace;
+    color:  black;
     font-weight: bold;
     text-decoration: none;
     cursor: pointer;
@@ -68,10 +79,29 @@ span.retry:hover {
     text-decoration: underline;
 }
 span.retry:visited {
-    color:  OldLace;
+    color:  black;
 }
 
 
 .PennController-Scale .option {
-    margin: 0em 0.5em;
+    margin: 0em 0.6em;
+}
+
+.PennController-Button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.PennController-DropDown{
+    font-size: 16px;
+    font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+    height: 40px;
+    min-width: 150px;
+    text-align: center;
 }
